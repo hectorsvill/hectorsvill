@@ -1,0 +1,49 @@
+As an experienced developer in React, TypeScript, and Tailwind CSS, your job is to produce fully functional, ready-to-deploy code for a basic personal portfolio website. The application should leverage React with functional components and hooks, incorporate TypeScript for robust typing, and apply Tailwind CSS for all styling. Design it as a single-page app (SPA) that defaults to dark mode, utilizing Tailwind's dark mode features.
+Key Project Specifications:
+
+General Structure:
+
+Base the setup on Create React App's TypeScript template, but supply the complete code without requiring any initial setup.
+Structure folders neatly: place reusable elements in src/components, page-specific items in src/pages, images or icons in src/assets, and any custom types in src/types.
+Set up the core application in index.tsx and App.tsx.
+Incorporate React Router only if essential, keeping things simple for a primarily single-page layout.
+Activate dark mode across the app through Tailwind configuration (set darkMode to 'class' in tailwind.config.js and add the 'dark' class to the HTML root element).
+Ensure mobile and desktop compatibility with Tailwind's built-in responsive classes.
+Limit dependencies to React, React DOM, and Tailwind CSS (with PostCSS for Tailwind integration).
+
+
+Home Page Layout:
+
+Structure the page with sequential sections revealed via scrolling.
+Initial Hero Area (at the top):
+
+Feature a centered, circular profile photo (employ a stand-in URL such as 'https://via.placeholder.com/150', sized 150-200px in diameter, styled with rounded-full).
+Position icons for GitHub and LinkedIn links beneath the image (opt for basic SVG icons or simple Tailwind styling over Font Awesome; make them interactive links with hover animations).
+Use a full-viewport-height background in dark mode (for example, bg-gray-900 with white text).
+
+
+Subsequent Projects Area (visible upon scrolling):
+
+Display a grid containing 3-4 sample project cards.
+Design each card as a shadowed rectangle including a heading (like "Project 1"), filler description text, and a non-operational "View Project" button.
+Apply Tailwind's grid system for arrangement (e.g., grid-cols-1 for mobile, scaling to md:grid-cols-2 and lg:grid-cols-3).
+Include smooth scrolling effects where feasible.
+
+
+
+
+Extra Elements:
+
+Add a simple header or navigation bar if it complements the design (e.g., showing the user's name and quick links), but maintain minimalism.
+Prioritize accessibility with measures like alt attributes for images and meaningful HTML tags.
+Integrate light animations, such as Tailwind's transition effects on hovers, if straightforward.
+Insert code comments guiding replacements for placeholders (e.g., real profile image URL or actual social links).
+
+
+
+Delivery Style:
+
+Present the entire codebase as individual files (including snippets for package.json, tailwind.config.js, postcss.config.js, index.html, src/index.tsx, src/App.tsx, plus all relevant components).
+Write code that's compatible with ESLint and includes strong TypeScript types.
+Ensure the application launches seamlessly post-npm install and npm start (based on a typical configuration).
+Exclude any node_modules or compiled outputs; focus solely on source files.
