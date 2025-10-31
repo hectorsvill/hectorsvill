@@ -57,7 +57,7 @@ export function Hero() {
             ))}
           </div>
 
-          {/* <div className="mt-12">
+          <div className="mt-12">
             <a
               href="#projects"
               className="inline-block text-muted-foreground hover:text-foreground transition-colors duration-300"
@@ -76,7 +76,7 @@ export function Hero() {
                 <path d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
               </svg>
             </a>
-          </div> */}
+          </div>
         </div>
       </div>
     </section>
