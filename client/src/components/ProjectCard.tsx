@@ -40,7 +40,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
         <Button
           variant="outline"
           className="w-full"
-          disabled
+          onClick={() => window.open(project.url, '_blank', 'noopener,noreferrer')}
           data-testid={`button-view-project-${project.id}`}
         >
           View Project
