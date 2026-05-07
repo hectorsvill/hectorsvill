@@ -1,119 +1,90 @@
-# Personal Portfolio Website
+<div align="center">
 
-A dark-mode personal portfolio website built with React, TypeScript, Tailwind CSS, and Express. Features a full-viewport hero section with profile photo and social links, followed by a responsive projects showcase grid.
+# Hector Villasano
+### Senior iOS Engineer · Mobile Platform Specialist · SDK Integration
 
-## Features
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hector-steven-villasano)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorsvill@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hectorsvill.github.io)
 
-- ✨ Dark mode enabled by default
-- 📱 Fully responsive (mobile-first design)
-- 🎨 Clean, modern UI with smooth animations
-- ♿ Accessible with ARIA labels and semantic HTML
-- 🚀 Optimized performance with minimal dependencies
-- 💅 Professional portfolio-ready aesthetic
+</div>
 
-## Tech Stack
+---
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | React 18, TypeScript, Tailwind CSS |
-| Routing | Wouter |
-| Icons | Lucide React, React Icons |
-| UI Components | Shadcn UI (Radix UI primitives) |
-| Animations | Framer Motion |
-| Backend | Express.js, Node.js |
-| Database | Drizzle ORM + Neon (PostgreSQL) |
-| Build | Vite |
+### About Me
 
-## Project Structure
+iOS engineer with 5+ years building on the Apple platform — from Swift and SwiftUI to Objective-C and UIKit. I've led iOS cohorts, shipped SDK integrations across native and cross-platform stacks, and driven quality on device OS software at Amazon. I care about ownership, clean architecture, and shipping software that works.
 
-```
-├── client/
-│   └── src/
-│       ├── components/
-│       │   ├── Hero.tsx          # Hero section with profile and social links
-│       │   ├── ProjectCard.tsx   # Individual project card component
-│       │   └── Projects.tsx      # Projects grid section
-│       ├── pages/
-│       │   └── Home.tsx          # Main landing page
-│       └── App.tsx               # Application root with routing
-├── server/
-│   ├── index.ts                  # Express server entry point
-│   ├── routes.ts                 # API route definitions
-│   ├── storage.ts                # Data storage layer
-│   └── vite.ts                   # Vite dev server integration
-└── shared/                       # Shared types and schemas
-```
+Currently at **Grabba** integrating mobile SDKs across iOS and Android. Looking for a **Senior iOS Engineer** role where I can drive architecture decisions, mentor engineers, and build great user-facing experiences.
 
-## Getting Started
+---
 
-### Prerequisites
+### iOS & Apple Platform
 
-- Node.js 18+
-- npm
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![iOS SDK](https://img.shields.io/badge/iOS_SDK-000000?style=flat-square&logo=apple&logoColor=white)
 
-### Installation
+### Mobile & Cross-Platform
 
-```bash
-npm install
-```
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### Development
+### Languages & Tooling
 
-```bash
-npm run dev
-```
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-The app will be available at `http://localhost:5000`.
+---
 
-### Production Build
+### Experience Highlights
 
-```bash
-npm run build
-npm start
-```
+| Role | Company | Period |
+|------|---------|--------|
+| Software Integration Engineer | Grabba | Jun 2025 – Present |
+| Senior Test Associate | Amazon | Jul 2024 – Jun 2025 |
+| Device OS Test Associate | Amazon | Aug 2022 – Jul 2024 |
+| iOS Section Lead | BloomTech | Aug 2019 – Mar 2021 |
 
-### Type Check
+**iOS Section Lead @ BloomTech** — Supervised team leads and an entire iOS cohort teaching Swift, Xcode, and Objective-C. Owned curriculum quality and mentored engineers from zero to shipping apps.
 
-```bash
-npm run check
-```
+**Software Integration Engineer @ Grabba** — Ship iOS SDK integrations across native and cross-platform apps. Own mobile release pipelines, triage production issues, and write technical documentation for integration partners.
 
-### Database
+**Amazon (2+ years)** — Drove quality across Amazon Device OS platforms via manual and automated testing. Built SOPs, surfaced defects early, and mentored teammates across test execution.
 
-```bash
-npm run db:push
-```
+---
 
-## Customization
+### GitHub Stats
 
-### 1. Personal Information
-**File:** `client/src/components/Hero.tsx`
-- Update your name, tagline, and profile image URL
+<div align="center">
 
-### 2. Social Links
-**File:** `client/src/components/Hero.tsx`
-- Update GitHub, LinkedIn, and any other social profile URLs
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hectorsvill&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/hectorsvill)
 
-### 3. Projects
-**File:** `client/src/components/Projects.tsx`
-- Replace placeholder projects with your actual work — update `title`, `description`, and `technologies`
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorsvill&layout=compact&theme=github_dark&hide_border=true)](https://github.com/hectorsvill)
 
-### 4. Project Links
-**File:** `client/src/components/ProjectCard.tsx`
-- Remove the `disabled` prop from the "View Project" button and add your project URLs
+</div>
 
-### 5. Colors & Theme (Optional)
-**File:** `client/src/index.css`
-- Adjust CSS variables in the `.dark` class to customize the color scheme
+---
 
-## Design System
+### Certifications
 
-- **Font:** Inter (sans-serif)
-- **Background:** Deep charcoal (`gray-900`) with elevated cards (`gray-800`)
-- **Text:** High-contrast white/near-white on dark backgrounds (WCAG AA+)
-- **Spacing:** Consistent 4-unit scale (base 1rem = 16px)
-- **Animations:** 300ms ease-in-out transitions
+- iOS Mobile Application Development + Technical Interviewing
+- Java Foundations Certified Junior Associate — Kenzie Academy
 
-## License
+---
 
-MIT
+<div align="center">
+
+**Open to Senior iOS Engineer opportunities** · Sterling, VA (Remote / Hybrid / On-site)
+
+[![Email](https://img.shields.io/badge/hectorsvill@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hectorsvill@outlook.com)
+
+</div>
