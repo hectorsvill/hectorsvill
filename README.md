@@ -4,7 +4,7 @@
 ### Senior iOS Engineer · Mobile Platform Specialist · SDK Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hector-steven-villasano)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorsvill@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorstevenvillasano@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hectorsvill.github.io)
 
 </div>
@@ -66,9 +66,9 @@ Currently at **Grabba** integrating mobile SDKs across iOS and Android. Looking 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hectorsvill&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/hectorsvill)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hectorsvill&theme=github-dark&hide_border=true)](https://github.com/hectorsvill)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorsvill&layout=compact&theme=github_dark&hide_border=true)](https://github.com/hectorsvill)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hectorsvill&theme=github_dark)](https://github.com/hectorsvill)
 
 </div>
 
@@ -85,6 +85,6 @@ Currently at **Grabba** integrating mobile SDKs across iOS and Android. Looking 
 
 **Open to Senior iOS Engineer opportunities** · Sterling, VA (Remote / Hybrid / On-site)
 
-[![Email](https://img.shields.io/badge/hectorsvill@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hectorsvill@outlook.com)
+[![Email](https://img.shields.io/badge/hectorstevenvillasano@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hectorstevenvillasano@gmail.com)
 
 </div>
