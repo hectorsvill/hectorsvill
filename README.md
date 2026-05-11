@@ -13,9 +13,9 @@
 
 ### About Me
 
-iOS engineer with 5+ years building on the Apple platform — from Swift and SwiftUI to Objective-C and UIKit. I've led iOS cohorts, shipped SDK integrations across native and cross-platform stacks, and driven quality on device OS software at Amazon. I care about ownership, clean architecture, and shipping software that works.
+iOS Engineer with 5+ years of experience building across the Apple ecosystem, specializing in Swift, SwiftUI, Objective-C, and UIKit. I’ve led iOS engineering cohorts, delivered complex SDK integrations across native and cross-platform environments, and contributed to device OS quality initiatives for Fire OS and Vega OS at Amazon. My focus is on ownership, scalable architecture, performance, and delivering reliable software that creates great user experiences.
 
-Currently at **Grabba** integrating mobile SDKs across iOS and Android. Looking for a **Senior iOS Engineer** role where I can drive architecture decisions, mentor engineers, and build great user-facing experiences.
+Currently at Grabba, leading mobile SDK integrations across iOS and Android platforms while collaborating closely with product and engineering teams to ship production-ready solutions. I’m passionate about mentoring engineers, improving developer workflows, and driving technical decisions that balance long-term maintainability with product velocity.
 
 ---
 
