@@ -1,11 +1,10 @@
 <div align="center">
 
 # Hector Villasano
-### Senior iOS Engineer · Mobile Platform Specialist · SDK Integration
+### Software Integration Engineer · Mobile Platform Specialist · SDK Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hector-steven-villasano)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorstevenvillasano@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hectorsvill.github.io)
 
 </div>
 
@@ -62,6 +61,18 @@ Currently at Grabba, leading mobile SDK integrations across iOS and Android plat
 
 ---
 
+### Off the Clock: UAV & FPV Drones
+
+I'm an **FAA Part 107 certified Remote Pilot**, and flying is my favorite way to unplug. I love the whole loop: designing and building UAV and FPV quads from the frame up, tuning them in Betaflight, and taking them out to fly. Working on the hardware side, with flight controllers, ESCs, radios and video links, keeps me close to the same embedded and device-integration problems I enjoy at work.
+
+![FAA Part 107](https://img.shields.io/badge/FAA_Part_107-Certified_Remote_Pilot-1F4E79?style=flat-square)
+![FPV](https://img.shields.io/badge/FPV-Builder_%26_Pilot-E4405F?style=flat-square)
+![Betaflight](https://img.shields.io/badge/Betaflight-Tuning-FFBB00?style=flat-square)
+
+Builds, configs and flight logs live in [hectorsvill/UAS](https://github.com/hectorsvill/UAS), and my recreational flying videos are on [YouTube @stoiczfpv](https://www.youtube.com/@stoiczfpv).
+
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -77,6 +88,7 @@ Currently at Grabba, leading mobile SDK integrations across iOS and Android plat
 ### Certifications
 
 - iOS Mobile Application Development + Technical Interviewing
+- FAA Part 107 Remote Pilot Certificate (Small UAS), 2026
 - Java Foundations Certified Junior Associate — Kenzie Academy
 
 ---
