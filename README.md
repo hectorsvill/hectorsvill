@@ -1,11 +1,10 @@
 <div align="center">
 
 # Hector Villasano
-### Senior iOS Engineer · Mobile Platform Specialist · SDK Integration
+### Software Integration Engineer · Mobile Platform Specialist · SDK Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hector-steven-villasano)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorstevenvillasano@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hectorsvill.github.io)
 
 </div>
 
@@ -70,7 +69,7 @@ I'm an **FAA Part 107 certified Remote Pilot**, and flying is my favorite way to
 ![FPV](https://img.shields.io/badge/FPV-Builder_%26_Pilot-E4405F?style=flat-square)
 ![Betaflight](https://img.shields.io/badge/Betaflight-Tuning-FFBB00?style=flat-square)
 
-Builds, configs and flight logs live in [hectorsvill/UAS](https://github.com/hectorsvill/UAS), and flight videos are on [YouTube @stoiczfpv](https://www.youtube.com/@stoiczfpv).
+Builds, configs and flight logs live in [hectorsvill/UAS](https://github.com/hectorsvill/UAS), and my recreational flying videos are on [YouTube @stoiczfpv](https://www.youtube.com/@stoiczfpv).
 
 ---
 
