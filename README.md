@@ -95,7 +95,7 @@ Builds, configs and flight logs live in [hectorsvill/UAS](https://github.com/hec
 
 <div align="center">
 
-**Open to Senior iOS Engineer opportunities** · Sterling, VA (Remote / Hybrid / On-site)
+**Open to senior software engineering roles, especially AI-forward teams** · Sterling, VA (Remote / Hybrid / On-site)
 
 [![Email](https://img.shields.io/badge/hectorstevenvillasano@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hectorstevenvillasano@gmail.com)
 
